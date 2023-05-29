@@ -1,0 +1,9 @@
+train: ./Data/VOC2007/train/images
+val: ./Data/VOC2007/train/images
+
+nc: 20
+
+names: ["person", "bird", "cat", "cow", "dog", "horse",
+            "sheep","aeroplane", "bicycle", "boat", "bus", "car", "motorbike", "train",
+            "bottle", "chair", "diningtable", "pottedplant", "sofa", "tvmonitor"]
+
